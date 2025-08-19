@@ -21,15 +21,22 @@
 
 ## 🌟 About Me
 
-> *"Transforming complex problems into elegant solutions, one line of code at a time"*
+> *"Passionate about turning data into insights and ideas into impactful software solutions"*
 
-🎯 **Mission**: Creating AI-driven innovations that bridge the gap between cutting-edge technology and real-world impact
+🎯 **Mission**: Bridging the gap between data science, machine learning, and software development to create meaningful technological solutions
 
-🔥 **Currently Building**: Next-generation AI applications with PyTorch & React ecosystems
+🔥 **Currently Building**: AI-powered applications, data analysis pipelines, and full-stack web solutions using modern technologies
 
-🌱 **Always Learning**: Software Architecture, Advanced PyTorch, Graph Neural Networks
+🌱 **Always Learning**: Advanced algorithms, scalable software architecture, MLOps practices, and industry best practices
 
-🤝 **Open for Collaboration**: ML/DL Projects, Full-Stack Applications, Research Initiatives
+🚀 **Seeking Opportunities**: Software Engineering Internships | Data Science Internships | ML Engineering Internships
+
+🤝 **Ready to Contribute**: 
+- **Software Engineering**: Full-stack development, API design, system architecture
+- **Data Science**: Data analysis, statistical modeling, business intelligence
+- **ML Engineering**: Model development, deployment pipelines, AI applications
+
+💡 **What I Bring**: Strong foundation in programming, analytical thinking, and a genuine enthusiasm for learning cutting-edge technologies in fast-paced environments
 
 ---
 
