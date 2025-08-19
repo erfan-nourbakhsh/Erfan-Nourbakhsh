@@ -134,42 +134,6 @@
 
 </div>
 
----
-
-## 🏅 Achievements & Recognition
-
-<div align="center">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erfan2001&no-bg=true&no-frame=true" alt="erfan2001" /></a> </p>
-</div>
-
----
-
-## 🎯 What I'm Up To
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🧠 AI Research] --> B[💻 Code Implementation]
-    B --> C[🚀 Product Development]  
-    C --> D[🌟 Impact Creation]
-    D --> A
-    
-    style A fill:#FF6B6B,stroke:#FF6B6B,color:#fff
-    style B fill:#4ECDC4,stroke:#4ECDC4,color:#fff  
-    style C fill:#45B7D1,stroke:#45B7D1,color:#fff
-    style D fill:#96CEB4,stroke:#96CEB4,color:#fff
-```
-
-</div>
-
-- 🔬 **Research Focus**: Advanced Graph Neural Networks for real-world applications
-- 🏗️ **Building**: AI-powered web applications with modern React architectures  
-- 📚 **Learning**: Cutting-edge ML techniques and scalable software patterns
-- 🤝 **Mentoring**: Sharing knowledge through open-source contributions
-
----
 
 ## 💡 Let's Build Something Amazing Together!
 
@@ -198,7 +162,7 @@ graph LR
 ### ⚡ Fun Fact
 *"Best code is written with a perfect cup of tea ☕ and endless curiosity 🚀"*
 
-<img src="https://github.com/erfan2001/erfan2001/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://github.com/erfan-nourbakhsh/erfan-nourbakhsh/blob/output/github-contribution-grid-snake-dark.svg" alt="Erfan Nourbakhsh" />
 
 **Made with ❤️ and lots of ☕**
 
