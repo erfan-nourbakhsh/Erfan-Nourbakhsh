@@ -140,7 +140,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=erfan2001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erfan2001" alt="erfan2001" /></a> </p>
 
 </div>
 
