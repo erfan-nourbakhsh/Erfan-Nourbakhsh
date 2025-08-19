@@ -125,7 +125,8 @@
 
 ### 💬 I Love Discussing:
 
-🧠 **AI/ML Innovation** • 💻 **Clean Code & Architecture** • 📈 **Data-Driven Solutions** • 🌐 **Full-Stack Development** • 🔧 **DevOps & Automation** • 🎯 **Problem-Solving Strategies**
+🧠 **AI/ML Innovation** • 💻 **Clean Code & Architecture** • 📈 **Data-Driven Solutions** • 🌐 **Full-Stack Development** 
+• 🔧 **DevOps & Automation** • 🎯 **Problem-Solving Strategies**
 
 </div>
 
