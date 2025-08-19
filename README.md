@@ -6,7 +6,7 @@
 ### 🤖 Machine Learning Engineer • 💻 Software Engineer 
     
 <div/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E96FF&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Solutions;Crafting+Beautiful+Interfaces;Turning+Ideas+Into+Reality;Code+%2B+Coffee+%3D+Magic+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E96FF&center=true&vCenter=true&random=false&width=700&lines=Aspiring+Software+Engineer;Future+Data+Scientist;ML+Engineer+in+Making;Full-Stack+Developer;Problem+Solver+%2B+Code+Creator;Turning+Data+Into+Insights;Building+Tomorrow's+Technology;Innovation+Through+Code+%E2%9A%A1" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/erfan-nourbakhsh-221540197/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:ErfanNourbakhsh2001@gmail.com)
