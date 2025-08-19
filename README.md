@@ -41,7 +41,7 @@
 <div align="center">
 
 ### 🧠 Artificial Intelligence & Machine Learning
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv, r&theme=dark" />
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
