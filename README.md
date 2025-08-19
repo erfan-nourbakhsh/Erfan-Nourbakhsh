@@ -1,9 +1,9 @@
 # 🚀 Erfan Nourbakhsh
 
 <div align="center">
-
-### 🤖 Machine Learning Engineer • 💻 Frontend Developer • 🎨 Innovation Catalyst
-
+<div align="center">
+### 🤖 Machine Learning Engineer • 💻 Software Engineer 
+<div/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E96FF&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Solutions;Crafting+Beautiful+Interfaces;Turning+Ideas+Into+Reality;Code+%2B+Coffee+%3D+Magic+%E2%98%95" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/erfan-nourbakhsh-221540197/)
