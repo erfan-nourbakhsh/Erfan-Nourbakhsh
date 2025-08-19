@@ -140,7 +140,7 @@
 
 <div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erfan2001" alt="erfan2001" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erfan2001&title=MultiLanguage,Joined2020,Stars&no-bg=true&no-frame=true&column=3&rank=-C,-B" alt="erfan2001" /></a> </p>
 
 </div>
 
