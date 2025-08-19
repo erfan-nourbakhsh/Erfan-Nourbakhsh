@@ -136,8 +136,6 @@
 ### ⚡ Fun Fact
 *"Best code is written with a perfect cup of tea ☕ and endless curiosity 🚀"*
 
-<img src="https://raw.githubusercontent.com/erfan-nourbakhsh/erfan-nourbakhsh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
 **Made with ❤️ and lots of ☕**
 
 </div>
