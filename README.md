@@ -19,6 +19,7 @@
 
 ---
 
+
 ## 🌟 About Me
 
 > *"Passionate about turning data into insights and ideas into impactful software solutions"*
@@ -30,11 +31,6 @@
 🌱 **Always Learning**: Advanced algorithms, scalable software architecture, MLOps practices, and industry best practices
 
 🚀 **Seeking Opportunities**: Software Engineering Internships | Data Science Internships | ML Engineering Internships
-
-🤝 **Ready to Contribute**: 
-- **Software Engineering**: Full-stack development, API design, system architecture
-- **Data Science**: Data analysis, statistical modeling, business intelligence
-- **ML Engineering**: Model development, deployment pipelines, AI applications
 
 💡 **What I Bring**: Strong foundation in programming, analytical thinking, and a genuine enthusiasm for learning cutting-edge technologies in fast-paced environments
 
