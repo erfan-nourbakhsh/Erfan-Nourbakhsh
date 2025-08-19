@@ -108,7 +108,7 @@
 </td>
 <td width="50%">
 
-### 💻 Full-Stack Development  
+### 💻 Full-Stack Developer  
 - **Frontend**: React ecosystem mastery
 - **Mobile**: React Native applications
 - **Backend**: RESTful & GraphQL APIs
@@ -119,39 +119,13 @@
 </tr>
 </table>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erfan2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfan2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=erfan2001&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=58A6FF&sideNums=58A6FF" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=erfan2001&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9" />
-
-</div>
-
-
-## 💡 Let's Build Something Amazing Together!
 
 <div align="center">
 
 ### 💬 I Love Discussing:
 
 🧠 **Machine Learning** • 🕸️ **Graph Neural Networks** • ⚛️ **React Ecosystem** • 🏗️ **Software Architecture** • 🎨 **UI/UX Innovation**
-
----
-
-### 🚀 Ready to Collaborate?
-
-**🔗 Connect With Me**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Erfan2001)
-[![Resume](https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1AW0eTmm-1upcyu_lBtDGCpKxFmMaqlt_/view?usp=sharing)
-[![Email](https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ErfanNourbakhsh2001@gmail.com)
 
 </div>
 
