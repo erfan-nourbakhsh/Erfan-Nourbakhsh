@@ -125,7 +125,7 @@
 
 ### 💬 I Love Discussing:
 
-🧠 **Machine Learning** • 🕸️ **Graph Neural Networks** • ⚛️ **React Ecosystem** • 🏗️ **Software Architecture** • 🎨 **UI/UX Innovation**
+🧠 **AI/ML Innovation** • 💻 **Clean Code & Architecture** • 📈 **Data-Driven Solutions** • 🌐 **Full-Stack Development** • 🔧 **DevOps & Automation** • 🎯 **Problem-Solving Strategies**
 
 </div>
 
