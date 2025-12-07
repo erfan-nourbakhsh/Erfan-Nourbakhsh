@@ -13,7 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Erfan-Nourbakhsh)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF)](https://kaggle.com/erfan2001)
 
-<img src="https://komarev.com/ghpvc/?username=erfan2001&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=erfan-nourbakhsh&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views" />
 
 </div>
 
